@@ -1,4 +1,4 @@
-# GitHub Dev Card 🧑‍💻
+# GitHub Dev Card 
 
 A sleek, dark-themed web app that fetches any public GitHub user's profile and displays a beautiful developer card — complete with bio, top languages, stats, top projects, and an AI-style persona badge.
 
@@ -44,3 +44,9 @@ github-dev-card/
 - Edit persona logic in `app.js` → `getPersona()` function
 - Swap fonts in `index.html` (Google Fonts link)
 - Change colors via CSS variables at the top of `style.css`
+- # Developer
+
+## Siddhantam Sathwik Sandesh
+Artificial Intelligence & Data Science Student
+
+
