@@ -44,7 +44,7 @@ github-dev-card/
 - Edit persona logic in `app.js` → `getPersona()` function
 - Swap fonts in `index.html` (Google Fonts link)
 - Change colors via CSS variables at the top of `style.css`
-- # Developer
+## Developer
 
 ## Siddhantam Sathwik Sandesh
 Artificial Intelligence & Data Science Student
